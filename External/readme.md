@@ -6,7 +6,7 @@
     - Iris.csv
 
 ## Instructions:
-* As you may have noticed, "[here](./new.csv)" is not available in the labs(for exp 3) so it must be created by the students on the spot.
+* As you may have noticed, ['new.csv'](./new.csv) is not available in the labs(for exp 3) so it must be created by the students on the spot.
 * Classification report has been printed in all experiments where required.
 * Contact me if there's any problem with the repo or it's contents
 * All the best ig
