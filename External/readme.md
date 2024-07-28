@@ -8,6 +8,7 @@
 
 ## Instructions:
 * As you may have noticed, ['new.csv'](./new.csv) is not available in the labs(for exp 3) so it must be created by the students on the spot.
+* Preferably use Jupyter notebook for all programs especially 9th one.
 * Classification report has been printed in all experiments where required.
 * Contact me if there's any problem with the repo or it's contents
 * All the Best! ig
